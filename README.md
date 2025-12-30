@@ -9,7 +9,7 @@
 
 ### 🐍 My Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kaustubhwarudkar/kaustubhwarudkar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ### 🚀 About Me
