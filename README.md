@@ -7,10 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=AI%20ML%20Enthusiast&fontSize=70" width="100%" />
 </p>
 
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IMEREBOS/IMEREBOS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ### 🚀 About Me
 I am a passionate **AI/ML Enthusiast** currently pursuing a **Minor in Artificial Intelligence from IIT Ropar**. I thrive on turning complex data into actionable insights and building models that bridge the gap between theory and reality.
